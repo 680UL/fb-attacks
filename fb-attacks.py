@@ -19,7 +19,7 @@ print("Author   : MR.$!lent_680UL")
 print("github   : https://github.com/arkarkyaw2138")
 print("Facebook : https://www.facebook.com/arkar.kyaw.27")
 print
-ip = input(" Target ID: ")
+id = input(" Target ID: ")
 
 os.system("clear")
 os.system(" figlet FB-Attack Start")
