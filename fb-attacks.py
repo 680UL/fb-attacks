@@ -16,8 +16,6 @@ os.system("clear")
 os.system("figlet FB-Attack")
 print
 print("Author   : MR.$!lent_680UL")
-print("github   : https://github.com/arkarkyaw2138")
-print("Facebook : https://www.facebook.com/arkar.kyaw.27")
 print
 id = input(" Target ID: ")
 
